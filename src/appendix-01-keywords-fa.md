@@ -2,7 +2,7 @@
 ## Appendix A: Keywords
 
 لیست زیر حاوی کلماتی کلیدی است که برای استفاده در نسخه‌ی فعلی یا در نسخه‌های آینده‌ی زبان برنامه‌نویسی Rust رزرو شده است. به همین دلیل نمی‌توان این کلمات را به عنوان شناسه (مگر در شناسه‌های خام که در بخش [Raw
-Identifiers][raw-identifiers] بحث خواهیم کرد)، شامل اسامی توابع، متغیرها، پارامترها، زمینه‌های ساختاری، ماژول‌ها، کریت‌ها (crates)، مقادیر ثابت، ماکروها، مقادی استاتیک، صفات (attributes)، انواع داده‌ها، خصیصه‌ها (traits) و یا طول عمرها (lifetimes) استفاده کرد.  
+Identifiers][raw-identifiers] بحث خواهیم کرد)، در توابع، متغیرها، پارامترها، زمینه‌های ساختاری، ماژول‌ها، کریت‌ها (crates)، مقادیر ثابت، ماکروها، مقادی استاتیک، صفات (attributes)، انواع داده‌ها، خصیصه‌ها (traits) و یا طول عمرها (lifetimes) استفاده کرد.  
 As such, they cannot be used as identifiers (except
 as raw identifiers as we’ll discuss in the “[Raw
 Identifiers][raw-identifiers]<!-- ignore -->” section), including names of
